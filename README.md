@@ -1,26 +1,24 @@
 # FGL Browser Games Portal
 
-FGL is a free online browser gaming portal focused on puzzle, strategy,
-arcade, and casual games designed for adult players.
+FGL is a free online browser games portal focused on puzzle, strategy,
+and skill-based games designed primarily for adult players.
 
-No installs. No accounts required. Play instantly on desktop or mobile.
+All games run instantly in the browser — no downloads, no installs,
+and no accounts required.
 
-## Popular Game Categories
+## Game Categories
 
-### Match-3 Games
-Relaxing and strategic match-3 puzzle games designed for adult players.
-https://fgl.com/tags/match-3/
+This repository documents the primary game categories available on FGL.
+Each category emphasizes thoughtful gameplay, skill, or relaxed sessions
+rather than content aimed at young children.
 
-### Puzzle Games
-Brain-training puzzle games including logic, number puzzles, and hidden objects.
-https://fgl.com/tags/puzzle/
+- Match-3
+- Puzzle
+- Arcade
 
-### Arcade Games
-Skill-based arcade games including tower defense, racing, physics, and retro classics.
-https://fgl.com/tags/arcade/
+Detailed descriptions and category notes can be found in the `/games` folder.
 
-## Why FGL?
-- Fast-loading HTML5 games
-- Designed for adult audiences
-- No downloads required
-- Works on desktop and mobile
+## About FGL
+
+FGL curates high-quality HTML5 games that work on desktop and mobile devices.
+New games are added regularly across multiple genres.
