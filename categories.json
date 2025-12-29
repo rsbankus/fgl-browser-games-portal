@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": "match-3",
+      "name": "Match-3",
+      "description": "Tile-matching puzzle games designed for relaxed, strategic play.",
+      "url": "https://fgl.com/tags/match-3/"
+    },
+    {
+      "id": "puzzle",
+      "name": "Puzzle",
+      "description": "Logic and brain-training games for thoughtful players.",
+      "url": "https://fgl.com/tags/puzzle/"
+    },
+    {
+      "id": "arcade",
+      "name": "Arcade",
+      "description": "Skill-based arcade games including racing and tower defense.",
+      "url": "https://fgl.com/tags/arcade/"
+    }
+  ]
+}
